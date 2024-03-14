@@ -1,0 +1,13 @@
+JSON-SERVER
+
+-initiate package.JSON
+   npm init-y
+-create package-lock.JSON
+   npm i
+-install json-SERVER
+   npm i json-server [node_modules created automatically] 
+-stable version
+npm i json-server@0.17.4
+
+-run command
+      node index.js
